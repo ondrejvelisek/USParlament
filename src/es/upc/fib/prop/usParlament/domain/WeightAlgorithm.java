@@ -9,7 +9,7 @@ import java.util.Vector;
 
 //TODO: pre & posts
 
-public class AWeight {
+public class WeightAlgorithm {
 
     private Vector<Map.Entry<Attribute,Attribute>> ca; //Vector of common attributes.
 
